@@ -1,2 +1,2 @@
-# Myownlibrary
-Creating libraries like in code.org and writing code for it
+# p5.play-boilerplate
+Boiler plate for p5.play
